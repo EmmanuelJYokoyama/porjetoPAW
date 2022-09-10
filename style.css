@@ -1,0 +1,106 @@
+div{
+    text-align: center;
+    font: normal 18pt arial ;
+    margin-top: 50px;
+   
+
+}
+
+
+
+input{
+    margin-top: 10px;
+    height: 30px;
+    width: 250px;
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: #9335ce ;
+    font: medium 12pt Arial;
+}
+
+body{
+    background-color: #7161EF;
+ 
+}
+
+select{
+    margin-top: 10px;
+    height: 30px;
+    width: 250px;
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: #9335ce ;
+    font: medium 12pt Arial;
+}
+
+main{
+    background-color: #957FEF;
+    max-width: 800px;
+    min-height: 400px;
+    margin: auto;
+    margin-top: 90px;
+    font-size: 1em;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.377);
+}
+
+.distancia{
+    margin-top: -3px;
+
+}
+
+
+
+.pequeno{
+    margin: 1px;
+    margin-right: 215px;
+    font-size: 14px;
+}
+
+h1{
+    font: normal Arial 24pt;
+    margin-top: -30px ;
+    margin-bottom: 40px;
+}
+
+table{
+    margin-top: 80px;
+    border-radius: 10px;
+    text-align: center;
+    border-width: 4px;
+    background-color: #40798C;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
+
+}
+
+
+
+header{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 52px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #000000;
+
+}
+
+
+
+button{
+
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
+    text-align: center;
+    cursor: pointer;
+    border: 1px solid transparent;
+    padding: 6px 12px;
+    font-size: 18px;
+    border-radius: 10px;
+    
+
+}
+
+
+
